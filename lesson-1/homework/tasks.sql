@@ -71,6 +71,7 @@ CREATE TABLE category
    category_name VARCHAR(55)
 );
 
+
 DROP TABLE IF EXISTS item;
 
 CREATE TABLE item
